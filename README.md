@@ -4,7 +4,7 @@
 
 Gamics is a fully responsive gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://github.com/frrahman/Gamics.git"><strong>➥ Live Demo</strong></a>
+<a href="https://frrahman.github.io/Gamics/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
